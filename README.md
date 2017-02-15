@@ -1,6 +1,6 @@
 # HaarCascadeCV
 
-##### It uses Viola–Jones algorithm to detect heads of hockey players.
+##### It uses Viola-Jones algorithm to detect heads of hockey players.
 
 ```
 Requirements:
